@@ -1,0 +1,60 @@
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe.config
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.AssemblyReference.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Form1.resources
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Properties.Resources.resources
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.GenerateResource.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CopyComplete
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.exe
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe.config
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.dll
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.dll
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.dll
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.dll
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.pdb
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Form1.resources
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Properties.Resources.resources
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.GenerateResource.cache
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CopyComplete
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.exe
+C:\Users\LENOVO-USER\Desktop\appC\LAU\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe.config
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.exe
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\VistaUniversidad.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.dll
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.dll
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.dll
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.dll
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\Lib_Estudiante.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibConexionBD.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibLlenarGrid.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\bin\Debug\LibParametro.pdb
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Form1.resources
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.Properties.Resources.resources
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.GenerateResource.cache
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.csproj.CopyComplete
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.exe
+C:\Users\LENOVO-USER\Desktop\appC\APP\VistaUniversidad\VistaUniversidad\obj\Debug\VistaUniversidad.pdb

@@ -1,0 +1,13 @@
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\Lib_Estudiante.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\Lib_Estudiante.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibConexionBD.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibParametro.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibConexionBD.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibParametro.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\obj\Debug\Lib_Estudiante.csproj.AssemblyReference.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\obj\Debug\Lib_Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\obj\Debug\Lib_Estudiante.csproj.CopyComplete
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\obj\Debug\Lib_Estudiante.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\obj\Debug\Lib_Estudiante.pdb
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibLlenarGrid.dll
+C:\Users\Jhoan Alvarado\Documents\Librerias C\LAU\Lib_Estudiante\Lib_Estudiante\bin\Debug\LibLlenarGrid.pdb
